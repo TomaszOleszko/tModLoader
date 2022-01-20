@@ -63,7 +63,7 @@
 		"ModsXBuffs": "{0} {^0:Wzmocnienie;Wzmocnienia;Wzmocnień}",
 		"ModsXMounts": "{0} {^0:Wierzchowiec;Wierzchowce;Wierzchowców}",
 		"ModsReloadAndReturn": "Przeładuj i wróć do menu światów",
-		"ModsNotFoundServer": "Nie znaleziono modów w: "{0}"\nJeśli korzystasz z serwera dedykowanego, możesz chcieć skorzystać z 'modpath' w wierszu polecenia lub z konfiguracji serwera w celu określenia niestandardowego katalogu modów.\n",",
+		"ModsNotFoundServer": "Nie znaleziono modów w: {0}\nJeśli korzystasz z serwera dedykowanego, możesz chcieć skorzystać z 'modpath' w wierszu polecenia lub z konfiguracji serwera w celu określenia niestandardowego katalogu modów.\n",
 		"AskForModIndex": "Wpisz liczbę, aby przełączać między włączonymi/wyłączonymi modami",
 		"AskForCommand": "Wpisz komendę: ",
 
@@ -446,6 +446,6 @@
 		 "InHive": "Musi być w ulu",
 		 "InGemCave": "Musi być w jaskini kamieni szlachetnych",
 		 "InLihzardTemple": "Musi być w Świątyni Jaszczura",
-		 "InGraveyardBiome": "Musi być na cmentarzu""
+		 "InGraveyardBiome": "Musi być na cmentarzu"
 	}
 }
