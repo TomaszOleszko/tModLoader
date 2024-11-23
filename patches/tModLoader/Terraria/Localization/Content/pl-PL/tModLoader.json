@@ -511,7 +511,7 @@
 		"CreateModName": "NazwaModa (bez spacji)",
 		"CreateModDisplayName": "WyświetlanaNazwaModa",
 		"CreateModAuthor": "Autor Moda",
-		"CreateModBasicSword": "Podstawowy Miecz (bez spacji)",
+		"CreateModBasicSword": "PodstawowyMiecz (bez spacji)",
 		"CreateModBasicSwordHint": "Pozostaw puste, aby pominąć",
 		"CreateModFolderAlreadyExists": "Folder już istnieje",
 		"CreateModNameInvalid": "NazwaModa jest niepoprawnym identyfikatorem C#. Usuń spacje.",
